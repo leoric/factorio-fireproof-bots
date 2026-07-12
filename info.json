@@ -1,0 +1,8 @@
+{
+	"name": "Fireproof-Bots-2",
+	"version": "2.0.0",
+	"factorio_version": "2.0",
+	"title": "Fireproof Bots 2",
+	"author": "Zatone",
+	"description": "Fixes the construction bots stupidly flying into fire by giving them 100% fire resistance."
+}
